@@ -177,7 +177,6 @@
     <None Include="Build\Auto Respawn Anywhere.zip" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="README.txt" />
     <Resource Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
